@@ -104,15 +104,10 @@ public class MemberDAO {
 			pstmt.executeUpdate();
 			pstmt.close();
 			
-			
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
 		
 	}
-	
-	
-	
-	
 
 }
